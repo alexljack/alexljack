@@ -19,7 +19,7 @@
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)
+
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
@@ -36,7 +36,9 @@
 
 ## 🔨 Other tech/tools I use throughout my day
 
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=Zustand)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)
 ![React Table](https://img.shields.io/badge/React%20Table-FF4154?logo=reacttable&logoColor=fff)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)
@@ -97,7 +99,6 @@ You can also find me via...
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)] -->
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alexljack)
-[![Add me on LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/alexljack)
 [![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)](https://www.codewars.com/users/alexjack)
 
 <sub>"A strong team can take any crazy vision and turn it into reality." - John Carmack</sub>
