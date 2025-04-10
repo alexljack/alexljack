@@ -97,8 +97,8 @@ You can also find me via...
 <!-- [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)] -->
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)] -->
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alexljack){target="\_blank"}
-[![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)](https://www.codewars.com/users/alexjack){target="\_blank"}
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alexljack)
+[![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)](https://www.codewars.com/users/alexjack)
 
 <sub>"A strong team can take any crazy vision and turn it into reality." - John Carmack</sub>
 
