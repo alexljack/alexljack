@@ -43,7 +43,7 @@
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=Zustand)
-![AG Grid](https://img.shields.io/badge/-AG-Grid-000?&logo=AG-Grid)
+![AG Grid](https://img.shields.io/badge/-AG_Grid-000?&logo=AG_Grid)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
